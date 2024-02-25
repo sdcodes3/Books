@@ -1,5 +1,5 @@
 ## About
-This Web Site handles and manages the excel data from various trading platform by implementing clientwise details for a particular party.
+This Web Site enable the sharing of one's thoughts about a books. Using this one can share insights and their taking along with the review for a particular book. With our book addition functionality, one can enhance the world wide book repositories to this site.
 
 ## Requirements:
 1. Any latest Web Browsers.

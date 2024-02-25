@@ -1,0 +1,1 @@
+xcopy "C:\Users\Shrut\AppData\Roaming\MetaQuotes\Terminal\28669BF9F76D90B81C0201BDC9BEEE30\MQL4\Files" "C:\xampp\htdocs\Books\files" /Y && echo Successful
